@@ -1,0 +1,2 @@
+System.Exception: Test Exception
+   at SOLID.DependencyInversion.BetterCustomer.Add(Database db) in C:\Users\yospina\Desktop\SOLID\SOLID\SOLID\DependencyInversion\BetterCustomer.cs:line 22

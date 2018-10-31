@@ -1,0 +1,17 @@
+C:\Users\yospina\Desktop\SOLID\SOLID\SOLIDTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\yospina\Desktop\SOLID\SOLID\SOLIDTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\yospina\Desktop\SOLID\SOLID\SOLIDTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\yospina\Desktop\SOLID\SOLID\SOLIDTests\bin\Debug\SOLIDTests.dll
+C:\Users\yospina\Desktop\SOLID\SOLID\SOLIDTests\bin\Debug\SOLIDTests.pdb
+C:\Users\yospina\Desktop\SOLID\SOLID\SOLIDTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\yospina\Desktop\SOLID\SOLID\SOLIDTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\yospina\Desktop\SOLID\SOLID\SOLIDTests\bin\Debug\SOLID.exe
+C:\Users\yospina\Desktop\SOLID\SOLID\SOLIDTests\bin\Debug\SOLID.pdb
+C:\Users\yospina\Desktop\SOLID\SOLID\SOLIDTests\bin\Debug\SOLID.exe.config
+C:\Users\yospina\Desktop\SOLID\SOLID\SOLIDTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\yospina\Desktop\SOLID\SOLID\SOLIDTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\yospina\Desktop\SOLID\SOLID\SOLIDTests\obj\Debug\SOLIDTests.csprojAssemblyReference.cache
+C:\Users\yospina\Desktop\SOLID\SOLID\SOLIDTests\obj\Debug\SOLIDTests.csproj.CoreCompileInputs.cache
+C:\Users\yospina\Desktop\SOLID\SOLID\SOLIDTests\obj\Debug\SOLIDTests.csproj.CopyComplete
+C:\Users\yospina\Desktop\SOLID\SOLID\SOLIDTests\obj\Debug\SOLIDTests.dll
+C:\Users\yospina\Desktop\SOLID\SOLID\SOLIDTests\obj\Debug\SOLIDTests.pdb
